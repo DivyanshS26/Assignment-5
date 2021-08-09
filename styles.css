@@ -1,0 +1,20 @@
+#contain{
+    padding: 4vh;
+    display: grid;
+    grid-row-gap: 10vh;
+    margin-top: 2vh;
+}
+
+img{
+    padding: 2vh;
+
+}
+h1{
+    padding: 1.5vh;
+}
+
+p{
+    padding: 10px;
+}
+
+
